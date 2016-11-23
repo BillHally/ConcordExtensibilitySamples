@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.23107.0
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrontEndTest", "FrontEndTest\FrontEndTest.csproj", "{A53C9D11-E888-4F88-A3B6-0074C3382748}"
 EndProject
@@ -12,6 +12,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IrisExtension", "IrisExtension\IrisExtension.csproj", "{16272550-75E6-4B9D-91E3-653BD141C755}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ic", "ic\ic.csproj", "{A044C528-4D54-46E2-AE86-361A4E95CD37}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "IrisExtension.FSharp", "IrisExtension.FSharp\IrisExtension.FSharp.fsproj", "{C79C814A-2242-4098-AF7D-54AB284C2F1E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{A044C528-4D54-46E2-AE86-361A4E95CD37}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A044C528-4D54-46E2-AE86-361A4E95CD37}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A044C528-4D54-46E2-AE86-361A4E95CD37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C79C814A-2242-4098-AF7D-54AB284C2F1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C79C814A-2242-4098-AF7D-54AB284C2F1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C79C814A-2242-4098-AF7D-54AB284C2F1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C79C814A-2242-4098-AF7D-54AB284C2F1E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
